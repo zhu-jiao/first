@@ -1,6 +1,0 @@
-[0830/112021:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
-[0830/112021:ERROR:gl_surface_egl.cc(434)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
-[0830/112023:WARNING:browser_accessibility_manager_win.cc(87)] Not firing AX event because of no delegate
-[0830/112023:WARNING:browser_accessibility_manager_win.cc(178)] Not firing AX event because of no root_delegate or hwnd
-[0830/112023:WARNING:browser_accessibility_manager_win.cc(87)] Not firing AX event because of no delegate
-[0830/112023:WARNING:browser_accessibility_manager_win.cc(178)] Not firing AX event because of no root_delegate or hwnd
